@@ -45,8 +45,7 @@ body {
     background-image: url(/images/bg-pattern-quotation.svg);
     background-color: var(--Moderate-violet);
     background-repeat: no-repeat;
-    /*will modify this later*/
-    background-position: top right;
+    background-position: top 10px right 50px;
 }
 
 .card:nth-child(2) {
